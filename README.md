@@ -1,5 +1,5 @@
 ## 🎓 About Me
-- 📚 I'm currently a university student majoring in Computer Science
+- 📚 I'm currently a university student majoring in Computer Science with a minor in Data Science
 - 🌱 My GitHub is a reflection of my learning journey: from coding assignments to self-taught skills
 - 🔍 Focused on mastering Python and HTML/CSS
 - 🤖 Aspiring software engineer
