@@ -8,8 +8,8 @@
 ##  What I'm Learning
 - 🏫 Recent coursework: [CMSC 105 - Intro to Problem Solving and Algorithm Design]
 - 🌐 Online courses and tutorials: [The Odin Project](https://www.theodinproject.com)
-- 📝 Learning Journey: As I learn new technologies and techniques, I often work on small-scale projects and exercises <br>
-&nbsp; (this includes my academic work). I keep this in [/learningbee](https://github.com/bereamk/learningbee)
+- 📝 Learning Journey: As I learn new technologies and techniques, I often work on small-scale projects and exercises (this includes my academic work). <br>
+  - I keep this in [/learningbee](https://github.com/bereamk/learningbee)
 
 ## 🚀 My Projects
 - 🛠️ Upcoming Projects: [MTG Price Checker/Deck Builder]
