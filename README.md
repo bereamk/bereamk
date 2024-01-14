@@ -16,8 +16,7 @@
 - I'm constantly exploring new ideas and will be update this section acordingly
 
 ## 🤝 Let's Connect
-- Discord: disturaven
-- Twitter: bereamk
+- Discord: [disturaven](https://discordapp.com/users/1059950034004738172)
 
 <!-- Optional Footer -->
 ---
