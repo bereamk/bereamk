@@ -7,7 +7,7 @@
 ##  What I'm Learning
 - 📝 Learning Journey: As I learn new technologies and techniques, I often work on small-scale projects and exercises.<br>
   - I keep this in [/learningbee](https://github.com/bereamk/learningbee)
-- 🏫 Recent coursework: [UMGC CMSC 105](https://github.com/bereamk/uni/tree/main/CMSC_105), [Harvard CS50](https://cs50.harvard.edu/x/2024/)
+- 🏫 Recent coursework: [Harvard CS50](https://cs50.harvard.edu/x/2024/), Python Basics
 - 🔍 Focused on mastering: Python, SQL, JavaScript, HTML/CSS
 
 
