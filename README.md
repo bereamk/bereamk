@@ -12,7 +12,7 @@
 
 
 ## 🚀 My Projects
-- 🛠️ Upcoming Projects: [MTG Price Checker/Deck Builder]
+- 🛠️ Upcoming Projects: MTG Price Checker/Deck Builder, DnD Dice App
 - I'm constantly exploring new ideas and will be update this section acordingly
 
 ## 🤝 Let's Connect
