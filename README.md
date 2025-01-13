@@ -7,8 +7,9 @@
 ##  What I'm Learning
 - 📝 Learning Journey: As I learn new technologies and techniques, I often work on small-scale projects and exercises.<br>
   - I keep this in [/learningbee](https://github.com/bereamk/learningbee)
-- 🏫 Recent coursework: [Harvard CS50](https://cs50.harvard.edu/x/2024/), Python Basics, Java
+- 🏫 Recent coursework: [Harvard CS50](https://cs50.harvard.edu/x/2024/), Intermediate Java, Statistics, Computer Systems and Architecture
 - 🔍 Focused on mastering: Python and Java
+- Comfortable with: Java, Python, HTML, CSS
 
 
 ## 🚀 My Projects
