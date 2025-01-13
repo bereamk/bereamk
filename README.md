@@ -1,8 +1,7 @@
 ## 🎓 About Me
 - 📚 I'm currently a university student majoring in Computer Science with a minor in Data Science
 - 🌱 My GitHub is a reflection of my learning journey: from coding assignments to self-taught skills
-- 🤖 Aspiring machine learning engineer
-- 💼 Actively seeking opportunities to grow and apply my skills in data analytics
+- 💼 Actively seeking opportunities to grow and apply my skills in programming and working with hardware
 
 ##  What I'm Learning
 - 📝 Learning Journey: As I learn new technologies and techniques, I often work on small-scale projects and exercises.<br>
