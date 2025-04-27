@@ -6,7 +6,7 @@
 ##  What I'm Learning
 - 📝 Learning Journey: As I learn new technologies and techniques, I often work on small-scale projects and exercises.<br>
   - I keep this in [/learningbee](https://github.com/bereamk/learningbee)
-- 🏫 Recent coursework: [Harvard CS50](https://cs50.harvard.edu/x/2024/), Intermediate Java, Statistics, Computer Systems and Architecture
+- 🏫 Recent coursework: Foundations of Data Science, Intermediate Java, Computer Systems and Architecture
 - 🔍 Focused on mastering: Python and Java
 - Comfortable with: Java, Python, HTML, CSS
 
@@ -23,6 +23,7 @@
 ![](https://img.shields.io/badge/OS-MacOS-informational?style=flat&logo=Apple&logoColor=white&color=blue)
 ![](https://img.shields.io/badge/IDE-Visual_Studio_Code-informational?style=flat&logo=editorconfig&logoColor=white&color=purple)
 ![](https://img.shields.io/badge/IDE-IntelliJ_IDEA-informational?style=flat&logo=intellij-idea&logoColor=white&color=purple)
+![](https://img.shields.io/badge/IDE-DataSpell-informational?style=flat&logo=dataspell&logoColor=white&color=purple)
 ![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=red)
 ![](https://img.shields.io/badge/Code-Java-informational?style=flat&logo=openjdk&logoColor=white&color=red)
 
